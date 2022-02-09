@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Poppins:wght@200&family=Rowdies:wght@300&family=Space+Mono&family=Syne+Tactile&display=swap');
+);
+/* CSS HEX */
+--ebony: #4F564Fff;
+--rich-black-fogra-39: #0D1314ff;
+--pale-silver: #D0C7BAff;
+--dark-jungle-green: #1D2827ff;
+--charleston-green: #26302Fff;
+
+/* CSS HSL */
+--ebony: hsla(120, 4%, 32%, 1);
+--rich-black-fogra-39: hsla(189, 21%, 6%, 1);
+--pale-silver: hsla(35, 19%, 77%, 1);
+--dark-jungle-green: hsla(175, 16%, 14%, 1);
+--charleston-green: hsla(174, 12%, 17%, 1);
+
+/* SCSS HEX */
+$ebony: #4F564Fff;
+$rich-black-fogra-39: #0D1314ff;
+$pale-silver: #D0C7BAff;
+$dark-jungle-green: #1D2827ff;
+$charleston-green: #26302Fff;
+
+/* SCSS HSL */
+$ebony: hsla(120, 4%, 32%, 1);
+$rich-black-fogra-39: hsla(189, 21%, 6%, 1);
+$pale-silver: hsla(35, 19%, 77%, 1);
+$dark-jungle-green: hsla(175, 16%, 14%, 1);
+$charleston-green: hsla(174, 12%, 17%, 1);
+
+/* SCSS RGB */
+$ebony: rgba(79, 86, 79, 1);
+$rich-black-fogra-39: rgba(13, 19, 20, 1);
+$pale-silver: rgba(208, 199, 186, 1);
+$dark-jungle-green: rgba(29, 40, 39, 1);
+$charleston-green: rgba(38, 48, 47, 1);
+
+/* SCSS Gradient */
+$gradient-top: linear-gradient(0deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-right: linear-gradient(90deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-bottom: linear-gradient(180deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-left: linear-gradient(270deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-top-right: linear-gradient(45deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-bottom-right: linear-gradient(135deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-top-left: linear-gradient(225deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-bottom-left: linear-gradient(315deg, #4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+$gradient-radial: radial-gradient(#4F564Fff, #0D1314ff, #D0C7BAff, #1D2827ff, #26302Fff);
+
+body {
+
+}
+#splash-image {
+width: 100vw
+}
+
+#info {
+    color: var()
+}
